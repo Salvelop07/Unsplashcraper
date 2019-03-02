@@ -1,6 +1,6 @@
 ''' Tool for scraping data from Unsplash.com
 
-author: Anthony Hung Nguen
+author: Salvador H
 date_created: 14/2/2019
 '''
 

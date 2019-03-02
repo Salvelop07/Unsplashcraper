@@ -1,5 +1,7 @@
-# unsplash-crawler
-A tool to scrape enormous images from Unsplash.com
+# Unsplashcraper
+
+>Unsplashcraper is a handy tool to easily download high-resolution images from Unsplash.com! 📸✨
+
 ## Prerequisites
 You need to install python 3 environment
 ```
@@ -12,7 +14,7 @@ pip install pathlib
 ```
 ## Installation
 ```
-git clone https://github.com/anthonyhungnguyen/unsplash-crawler.git
+git clone https://github.com/Salvelop07/Unsplashcraper.git
 ```
 ## How to use
 1. Open terminal and change to your files directory
@@ -30,4 +32,4 @@ python main.py
 ## Versioning
 Initial release
 ## Author
-* **Anthony Hưng Nguyễn** - *Initial work* - [Facebook](https://facebook.com/)
+**Salvador H**
